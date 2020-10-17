@@ -64,7 +64,8 @@ I looked at the distributions of the data and the value counts for the various c
 
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+![corr](https://user-images.githubusercontent.com/32906980/96347913-b1f11a00-10c2-11eb-8798-cee5fb6d4e5a.png)
+
 
 
 ## Model Building 
