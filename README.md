@@ -62,8 +62,9 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
+![avgsalary](https://user-images.githubusercontent.com/32906980/96348054-9cc8bb00-10c3-11eb-8f0a-11fc3c6dc625.png)
+![joboppor](https://user-images.githubusercontent.com/32906980/96348047-95091680-10c3-11eb-85a8-e25b4a7fa3e4.png)
+![jobss](https://user-images.githubusercontent.com/32906980/96348032-8e7a9f00-10c3-11eb-8288-27a6041e4061.PNG)
 ![corr](https://user-images.githubusercontent.com/32906980/96347913-b1f11a00-10c2-11eb-8798-cee5fb6d4e5a.png)
 
 
