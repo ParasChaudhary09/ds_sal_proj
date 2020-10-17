@@ -13,9 +13,6 @@
 **Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
 **Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
-## YouTube Project Walk-Through
-https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
-
 ## Web Scraping
 Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
 *	Job title
@@ -49,6 +46,16 @@ After scraping the data, I needed to clean it up so that it was usable for our m
     * Excel  
     * AWS  
     * Spark 
+    * SQL
+    * Devops
+    * TensorFlow
+    * ML
+    * DL
+    * Tableau
+    * Data Wrangling
+    * Cloud Computing
+    * Database Management
+    * Communication
 *	Column for simplified job title and Seniority 
 *	Column for description length 
 
